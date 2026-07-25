@@ -430,4 +430,4 @@ if __name__ == '__main__':
     """)
     
     # تشغيل Flask مع 20 عاملاً لمعالجة الطلبات المتزامنة
-    app.run(host='0.0.0.0', port=5000, debug=False, threaded=True, processes=4)
+    app.run(host='0.0.0.0', port=5000, debug=False, threaded=True
