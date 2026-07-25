@@ -1,0 +1,4 @@
+Flask==2.3.3
+curl-cffi==0.5.10
+faker==20.1.0
+requests==2.31.0
